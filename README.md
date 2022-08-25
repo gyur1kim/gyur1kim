@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 FE 개발자가 되고싶은 김규리입니다~👋
 
 <!--
 **gyur1kim/gyur1kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
