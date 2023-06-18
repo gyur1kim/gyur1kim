@@ -1,13 +1,13 @@
 <div align=center>
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&section=header&height=200&text=KIM%20GYURI&animation=fadeIn&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=:%20FE%20Developer&descAlign=50&descAlignY=50" 
+       src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&section=header&height=200&text=KIM%20GYURI&animation=fadeIn&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Grow%20Step%20by%20Step&descAlign=50&descAlignY=50" 
    />
 </div>
 
 <div align=center>
   🖥️ <b>Web Frontend Developer</b><br/>
   🎓 <b>SOONGSIL Univ. Global School of Media</b> <sub><sup>2017.03~2022.08</sup></sub><br/>
-  ✍️ <b>Samsung Software Academy For Youth</b> <sub><sup>SSAFY 8기 | 2022.08~</sup></sub>
+  ✍️ <b>Samsung Software Academy For Youth</b> <sub><sup>SSAFY 8기 | 2022.07~2023.06</sup></sub>
 </div>
 <br/>
 
@@ -66,14 +66,8 @@
 
 <div align=center>
   <h3>🐾 그밖에 🐾</h3>
-  <p>🐈 Github 🦑</p>
-
+	
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyur1kim)](https://github.com/gyur1kim/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyur1kim&layout=compact)](https://github.com/gyur1kim/github-readme-stats)
-
-
-  <p>🏆 Baekjoon Solved 🏆</p>
-
+	
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qri98)](https://solved.ac/qri98/)
-
 </div>
