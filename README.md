@@ -5,6 +5,15 @@
 </div>
 
 <div align=center>
+    <h3>👋Introduce👋</h3>
+    <p>꾸준히 공부하고, 이해될 때까지 깊이 탐구하는 <strong>성장형 개발자</strong>입니다.</p>
+    <p>항상 <code>F12</code> 버튼을 눌러 페이지를 탐구하는 <strong>호기심많은 개발자</strong>입니다.</p>
+    <p>팀의 일은 곧 나의 일, 맡은 일에 <strong>책임을 다하는 개발자</strong>입니다.</p>
+    <a href="https://gyur1kim.notion.site/c318929ff5074b89b8fafa9cc7686853?pvs=4">👉포트폴리오 바로가기</a>
+</div>
+<br/>
+
+<div align=center>
   🖥️ <b>Web Frontend Developer</b><br/>
   🎓 <b>SOONGSIL Univ. Global School of Media</b> <sub><sup>2017.03~2022.08</sup></sub><br/>
   ✍️ <b>Samsung Software Academy For Youth</b> <sub><sup>SSAFY 8기 | 2022.07~2023.06</sup></sub>
