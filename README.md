@@ -11,9 +11,10 @@
     👉<a href="https://gyur1kim.notion.site/c318929ff5074b89b8fafa9cc7686853?pvs=4">저에 대해 더 알고싶다면 이곳으로...</a>
 </div>
 <br/>
+<br/>
 
 <div align=left>
-  <p>🖥 <b>TmaxEduAI</b>&nbsp;&nbsp; 연구원 | 2023.07~<br/></p>
+  <p>🖥 <b>TmaxEduAI</b>&nbsp;&nbsp; FE 개발자 | 2023.07~2024.10<br/></p>
   <p>✍️ <b>Samsung Software Academy For Youth</b>&nbsp;&nbsp; SSAFY 8기 | 2022.07~2023.06<br/></p>
   <p>🎓 <b>숭실대학교</b>&nbsp;&nbsp; 글로벌미디어학부(IT대학) | 2017.03~2022.08<br/></p>
 </div>
