@@ -6,15 +6,17 @@
 
 <div align=left>
     <h3>👋Introduce👋</h3>
-    <p>궁금한 것이 생기면 개발자도구를 켜고 페이지를 탐구하는 <strong>호기심 많은 개발자</strong>입니다.</p>
+    <p>개발자 도구를 켜고 웹페이지가 어떻게 개발됐을지 호기심을 가집니다.</p>
+    <p>공식 문서와 깃허브 코드를 분석하며 버그를 해결합니다.</p>
+    <p>꼬리에 꼬리를 물어 이해 될 때까지 공부합니다.</p>
     <p>팀의 일은 곧 나의 일, 맡은 일에 <strong>책임을 다하는 개발자</strong>입니다 (야근 많이 함)</p>
-    👉<a href="https://gyur1kim.notion.site/c318929ff5074b89b8fafa9cc7686853?pvs=4">저에 대해 더 알고싶다면 이곳으로...</a>
+    👉<a href="https://gyur1kim.notion.site/157f9d3a2da38000baa6f7f61c054e2b?pvs=4">저에 대해 더 알고싶다면 이곳으로...</a>
 </div>
 <br/>
 <br/>
 
 <div align=left>
-  <p>🖥 <b>TmaxEduAI</b>&nbsp;&nbsp; FE 개발자 | 2023.07~2024.10<br/></p>
+  <p>🖥 <b>TmaxEduAI</b>&nbsp;&nbsp; FE 개발자 | 2023.07~2024.11<br/></p>
   <p>✍️ <b>Samsung Software Academy For Youth</b>&nbsp;&nbsp; SSAFY 8기 | 2022.07~2023.06<br/></p>
   <p>🎓 <b>숭실대학교</b>&nbsp;&nbsp; 글로벌미디어학부(IT대학) | 2017.03~2022.08<br/></p>
 </div>
