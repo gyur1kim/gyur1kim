@@ -1,6 +1,6 @@
 <div align=center>
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&section=header&height=200&text=KIM%20GYURI&animation=fadeIn&fontSize=50&fontAlignY=30&&fontAlignY=60&desc=Grow%20Step%20by%20Step&descAlign=50&descAlignY=50" 
+       src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&section=header&height=180&text=KIM%20GYURI&animation=fadeIn&fontSize=40&fontColor=3e3e3e&stroke=eeeeee" 
    />
 </div>
 
