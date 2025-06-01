@@ -15,7 +15,8 @@
 <br/>
 
 <div align=left>
-  <p>🖥 <b>TmaxEduAI</b>&nbsp;&nbsp; FE 개발자 | 2023.07~2024.11<br/></p>
+  <p>🏢 <b>WeavrCare</b>&nbsp;&nbsp; FE 개발자 | 2025.05~<br/></p>
+  <p>🏢 <b>TmaxEduAI</b>&nbsp;&nbsp; FE 개발자 | 2023.07~2024.11<br/></p>
   <p>✍️ <b>Samsung Software Academy For Youth</b>&nbsp;&nbsp; SSAFY 8기 | 2022.07~2023.06<br/></p>
   <p>🎓 <b>숭실대학교</b>&nbsp;&nbsp; 글로벌미디어학부(IT대학) | 2017.03~2022.08<br/></p>
 </div>
